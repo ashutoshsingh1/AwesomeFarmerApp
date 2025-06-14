@@ -1,3 +1,31 @@
+# AwesomeFarmerApp
+
+A mobile app to help Indian farmers detect crop pests/diseases from photos and get local solutions in Hindi.
+
+## Features
+- Take or upload a photo of the affected crop
+- Detects pest/disease (placeholder for now)
+- Provides solution in Hindi
+- Simple, farmer-friendly UI
+
+## Getting Started
+
+1. **Install dependencies:**
+   ```sh
+   npm install
+   ```
+2. **Start the Expo app:**
+   ```sh
+   npx expo start
+   ```
+3. **Run on your device:**
+   - Use the Expo Go app (Android/iOS) to scan the QR code.
+
+## Notes
+- Camera permissions are required.
+- All solutions are currently placeholders in Hindi.
+- Future: Add real ML model and more languages.
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
